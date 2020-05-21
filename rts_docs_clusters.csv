@@ -1,0 +1,101 @@
+	title	label
+0	Rate monotonic scheduling algorithm: Exact characterization and average case behavior	0
+1	Specifying real-time properties with metric temporal logic	3
+2	Stack-based scheduling of realtime processes	4
+3	Aperiodic task scheduling for Hard-Real-Time systems	1
+4	Algorithms and complexity concerning the preemptive scheduling of periodic, real-time tasks on one processor	0
+5	Calculating the maximum execution time of real-time programs	0
+6	Fixed priority scheduling of periodic task sets with arbitrary deadlines	4
+7	Preemptively scheduling hard-real-time sporadic tasks on one processor	0
+8	On non-preemptive scheduling of periodic and sporadic tasks	1
+9	Allocating hard real-time tasks: An NP-Hard problem made easy	3
+10	An optimal algorithm for scheduling soft-aperiodic tasks in fixed-priority preemptive systems	1
+11	Predicting program execution times by analyzing static and dynamic program paths	0
+12	Software architecture for hard real-time applications: Cyclic executives vs. fixed priority executives	4
+13	Dynamic priority ceilings: A concurrency control protocol for real-time systems	1
+14	Dynamic scheduling of real-time tasks under precedence constraints	1
+15	On the competitiveness of on-line real-time task scheduling	0
+16	Quantitative temporal reasoning	0
+17	Mode change protocols for priority-driven preemptive scheduling	4
+18	Data access scheduling in firm real-time database systems	2
+19	A stack-based resource allocation policy for realtime processes	4
+20	Earliest deadline scheduling for real-time database systems	2
+21	The cyclic executive model and Ada	0
+22	Scheduling slack time in fixed priority pre-emptive systems	0
+23	Architectural foundations for real-time performance in intelligent agents	0
+24	Fixed priority scheduling of periodic task sets with arbitrary deadlines	4
+25	What is predictability for real-time systems?	3
+26	Preemptively scheduling hard-real-time sporadic tasks on one processor	0
+27	Performance evaluation of two new disk scheduling algorithms for real-time systems	2
+28	Load adjustment in adaptive real-time systems	0
+29	Non-blocking write protocol NBW: A solution to a real-time synchronization problem	0
+30	Accounting for interrupt handling costs in dynamic priority task systems	4
+31	SMART (strategic memory allocation for real-time) cache design	1
+32	Pipelined processors and worst case execution times	0
+33	Experimental evaluation of real-time transaction processing	2
+34	Mode changes in priority preemptively scheduled systems	1
+35	Fixed priority scheduling periodic tasks with varying execution priority	4
+36	Building a predictable avionics platform in Ada: A case study	0
+37	Priority inheritance in soft real-time databases	4
+38	A calculus for communicating systems with time and probabilities	0
+39	Scheduling distance-constrained real-time tasks	0
+40	Run-time monitoring of real-time systems	3
+41	Automatic symbolic verification of embedded systems	0
+42	An event model for deadline verification of hard real-time systems	1
+43	An implementation of three algorithms for timing verification based on automata emptiness	0
+44	Scheduling I/O requests with deadlines: A performance evaluation	2
+45	Using dynamic adjustment of serialization order for real-time database systems	2
+46	On-line scheduling of hard deadline aperiodic tasks in fixed-priority systems	1
+47	Dover: An optimal on-line scheduling algorithm for overloaded real-time systems	1
+48	The end of the line for static cyclic scheduling?	1
+49	Framework for reasoning about time and reliability	0
+50	Optimal synchronous capacity allocation for hard real-time communications with the timed token protocol	0
+51	Synchronous atomic broadcast for redundant broadcast channels	3
+52	A retargetable technique for predicting execution time	0
+53	Extending a blackboard architecture for approximate processing	0
+54	Responsive, deterministic IEEE 802.5 token ring scheduling	0
+55	REAL-TIME DYNAMICS OF MANIPULATION ROBOTS.	0
+56	Giving semantics to SA/RT by means of high-level timed Petri nets	0
+57	Hartstone Uniprocessor Benchmark: Definitions and experiments for real-time systems	1
+58	Dynamic real-time optimistic concurrency control	2
+59	A local area network architecture for communication in distributed real-time systems	3
+60	SSP: A semantics-based protocol for real-time data access	0
+61	Scheduling sporadic tasks with shared resources in hard-real-time systems	1
+62	On using priority inheritance in real-time databases	4
+63	Dynamic real-time optimistic concurrency control	2
+64	Timing-based mutual exclusion	0
+65	Issues in real-time data management	3
+66	Experiments with a program timing tool based on source-level timing schema	0
+67	Queuing spin lock algorithms to support timing predictability	4
+68	A stack-based resource allocation policy for realtime processes	4
+69	Addressing real-time constraints in the design of autonomous agents	0
+70	Enhancing real-time DBMS performance with multiversion data and priority based disk scheduling	2
+71	Comparative evaluation of high-level real-time programming languages	3
+72	Results about fast mutual exclusion	0
+73	Transition scheduling in (multiclass real-time database systems	2
+74	Polynomial-time transformations and schedulability analysis of parallel real-time programs with restricted resource contention	0
+75	Performance analysis of FCFS and improved FCFS scheduling algorithms for dynamic real-time computer systems	0
+76	Feasible processor allocation in a Hard-Real-Time environment	1
+77	Dealing with different time granularities in formal specifications of real-time systems	3
+78	Fast algorithms for scheduling imprecise computations	0
+79	Hybrid protocols using dynamic adjustment of serialization order for real-time concurrency control	2
+80	A calculus for communicating systems with time and probabilities	0
+81	VERIFICATION AND VALIDATION OF REAL-TIME SOFTWARE.	0
+82	Application semantics and concurrency control of real-time data-intensive applications	2
+83	Cy-Clone: An approach to the engineering of resource adequate cyclic real-time systems	3
+84	Real-time Concurrent C: A language for programming dynamic real-time systems	0
+85	Timed high-level nets	0
+86	Time-constrained reasoning under uncertainty	0
+87	HARTIK: A real-time kernel for robotics applications	0
+88	PERTS: A prototyping environment for real-time systems	3
+89	Allocation of periodic task modules with precedence and deadline constraints in distributed real-time systems	1
+90	Monitoring timing constraints in distributed real-time systems	3
+91	Applying compiler techniques to scheduling in real-time systems	0
+92	RTSL: A language for real-time schedulability analysis	0
+93	High-Level Timed Petri Nets as a kernel for executable specifications	0
+94	An improved hard real-time scheduling for the IEEE 802.5	0
+95	The transient server approach to scheduling time-critical recovery operations	1
+96	Scheduling I/O requests with deadlines: A performance evaluation	2
+97	SMART (strategic memory allocation for real-time) cache design using the MIPS R3000	3
+98	Object-based semantic real-time concurrency control	2
+99	Semantics-based compiler transformations for enhanced schedulability	0

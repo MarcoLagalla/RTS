@@ -1,0 +1,501 @@
+	title	label
+0	Rate monotonic scheduling algorithm: Exact characterization and average case behavior	1
+1	Specifying real-time properties with metric temporal logic	1
+2	Stack-based scheduling of realtime processes	3
+3	Aperiodic task scheduling for Hard-Real-Time systems	1
+4	Algorithms and complexity concerning the preemptive scheduling of periodic, real-time tasks on one processor	4
+5	Calculating the maximum execution time of real-time programs	3
+6	Fixed priority scheduling of periodic task sets with arbitrary deadlines	4
+7	Preemptively scheduling hard-real-time sporadic tasks on one processor	3
+8	On non-preemptive scheduling of periodic and sporadic tasks	0
+9	Allocating hard real-time tasks: An NP-Hard problem made easy	0
+10	An optimal algorithm for scheduling soft-aperiodic tasks in fixed-priority preemptive systems	3
+11	Predicting program execution times by analyzing static and dynamic program paths	4
+12	Software architecture for hard real-time applications: Cyclic executives vs. fixed priority executives	2
+13	Dynamic priority ceilings: A concurrency control protocol for real-time systems	0
+14	Dynamic scheduling of real-time tasks under precedence constraints	3
+15	On the competitiveness of on-line real-time task scheduling	0
+16	Quantitative temporal reasoning	0
+17	Mode change protocols for priority-driven preemptive scheduling	0
+18	Data access scheduling in firm real-time database systems	1
+19	A stack-based resource allocation policy for realtime processes	2
+20	Earliest deadline scheduling for real-time database systems	4
+21	The cyclic executive model and Ada	4
+22	Scheduling slack time in fixed priority pre-emptive systems	0
+23	Architectural foundations for real-time performance in intelligent agents	3
+24	Fixed priority scheduling of periodic task sets with arbitrary deadlines	2
+25	What is predictability for real-time systems?	1
+26	Preemptively scheduling hard-real-time sporadic tasks on one processor	0
+27	Performance evaluation of two new disk scheduling algorithms for real-time systems	2
+28	Load adjustment in adaptive real-time systems	0
+29	Non-blocking write protocol NBW: A solution to a real-time synchronization problem	2
+30	Accounting for interrupt handling costs in dynamic priority task systems	1
+31	SMART (strategic memory allocation for real-time) cache design	3
+32	Pipelined processors and worst case execution times	0
+33	Experimental evaluation of real-time transaction processing	0
+34	Mode changes in priority preemptively scheduled systems	4
+35	Fixed priority scheduling periodic tasks with varying execution priority	3
+36	Building a predictable avionics platform in Ada: A case study	2
+37	Priority inheritance in soft real-time databases	3
+38	A calculus for communicating systems with time and probabilities	0
+39	Scheduling distance-constrained real-time tasks	0
+40	Run-time monitoring of real-time systems	4
+41	Automatic symbolic verification of embedded systems	0
+42	An event model for deadline verification of hard real-time systems	4
+43	An implementation of three algorithms for timing verification based on automata emptiness	0
+44	Scheduling I/O requests with deadlines: A performance evaluation	4
+45	Using dynamic adjustment of serialization order for real-time database systems	1
+46	On-line scheduling of hard deadline aperiodic tasks in fixed-priority systems	3
+47	Dover: An optimal on-line scheduling algorithm for overloaded real-time systems	1
+48	The end of the line for static cyclic scheduling?	4
+49	Framework for reasoning about time and reliability	3
+50	Optimal synchronous capacity allocation for hard real-time communications with the timed token protocol	1
+51	Synchronous atomic broadcast for redundant broadcast channels	3
+52	A retargetable technique for predicting execution time	0
+53	Extending a blackboard architecture for approximate processing	2
+54	Responsive, deterministic IEEE 802.5 token ring scheduling	4
+55	REAL-TIME DYNAMICS OF MANIPULATION ROBOTS.	2
+56	Giving semantics to SA/RT by means of high-level timed Petri nets	0
+57	Hartstone Uniprocessor Benchmark: Definitions and experiments for real-time systems	0
+58	Dynamic real-time optimistic concurrency control	1
+59	A local area network architecture for communication in distributed real-time systems	0
+60	SSP: A semantics-based protocol for real-time data access	2
+61	Scheduling sporadic tasks with shared resources in hard-real-time systems	0
+62	On using priority inheritance in real-time databases	1
+63	Dynamic real-time optimistic concurrency control	3
+64	Timing-based mutual exclusion	3
+65	Issues in real-time data management	0
+66	Experiments with a program timing tool based on source-level timing schema	4
+67	Queuing spin lock algorithms to support timing predictability	1
+68	A stack-based resource allocation policy for realtime processes	2
+69	Addressing real-time constraints in the design of autonomous agents	2
+70	Enhancing real-time DBMS performance with multiversion data and priority based disk scheduling	2
+71	Comparative evaluation of high-level real-time programming languages	3
+72	Results about fast mutual exclusion	2
+73	Transition scheduling in (multiclass real-time database systems	3
+74	Polynomial-time transformations and schedulability analysis of parallel real-time programs with restricted resource contention	4
+75	Performance analysis of FCFS and improved FCFS scheduling algorithms for dynamic real-time computer systems	2
+76	Feasible processor allocation in a Hard-Real-Time environment	3
+77	Dealing with different time granularities in formal specifications of real-time systems	4
+78	Fast algorithms for scheduling imprecise computations	0
+79	Hybrid protocols using dynamic adjustment of serialization order for real-time concurrency control	1
+80	A calculus for communicating systems with time and probabilities	4
+81	VERIFICATION AND VALIDATION OF REAL-TIME SOFTWARE.	0
+82	Application semantics and concurrency control of real-time data-intensive applications	4
+83	Cy-Clone: An approach to the engineering of resource adequate cyclic real-time systems	4
+84	Real-time Concurrent C: A language for programming dynamic real-time systems	2
+85	Timed high-level nets	0
+86	Time-constrained reasoning under uncertainty	3
+87	HARTIK: A real-time kernel for robotics applications	3
+88	PERTS: A prototyping environment for real-time systems	0
+89	Allocation of periodic task modules with precedence and deadline constraints in distributed real-time systems	0
+90	Monitoring timing constraints in distributed real-time systems	4
+91	Applying compiler techniques to scheduling in real-time systems	2
+92	RTSL: A language for real-time schedulability analysis	1
+93	High-Level Timed Petri Nets as a kernel for executable specifications	0
+94	An improved hard real-time scheduling for the IEEE 802.5	2
+95	The transient server approach to scheduling time-critical recovery operations	2
+96	Scheduling I/O requests with deadlines: A performance evaluation	3
+97	SMART (strategic memory allocation for real-time) cache design using the MIPS R3000	4
+98	Object-based semantic real-time concurrency control	0
+99	Semantics-based compiler transformations for enhanced schedulability	0
+100	IPTES: A concurrent engineering approach for real-time software development	3
+101	The IPTES environment: Support for incremental, heterogeneous and distributed prototyping	0
+102	A partial evaluator for the Maruti hard real-time system	1
+103	Fastchart - A fast time deterministic CPU and hardware based real-time-kernel	3
+104	Program representation and translation for predictable real-time systems	3
+105	The ARTS real-time object model	2
+106	Depth-limited search for real-time problem solving	0
+107	Concepts, methods, and languages for building timely intelligent systems	0
+108	Time bounds for real-time process control in the presence of timing uncertainty	1
+109	Scheduling parallelizable jobs on multiprocessors	4
+110	Forecasting real-Time behavior during software design using a CASE environment	3
+111	On-line scheduling of imprecise computations to minimize error	3
+112	An object oriented model for parallel and reactive systems	4
+113	Predictable synchronization mechanisms for multiprocessor real-time systems	4
+114	Developing correct systems	2
+115	Spring scheduling co-processor: Design, use, and performance	2
+116	Graphical animation as a form of prototyping real-time software systems	0
+117	The input-output control of real-time discrete event systems	1
+118	RTC: Language support for real-time concurrency	1
+119	Concurrency control in real-time databases by dynamic adjustment of serialization order	0
+120	Concurrency control in real-time databases by dynamic adjustment of serialization order	1
+121	Object-oriented design of real-time software	3
+122	New probabilistic algorithm for clock synchronization	3
+123	MT: A toolset for specifying and analyzing real-time systems	1
+124	How to get serializability for real-time transactions without having to pay for it	1
+125	An executable subset of VDM-SL in an SA/RT framework	3
+126	FASTHARD - A fast time deterministic HARDware based real-time kernel	0
+127	A verifier for real-time properties	2
+128	Real-time features for Ada 9X	3
+129	Real-time scheduling support in Futurebus+	2
+130	A tagged memory technique for recovery from transient errors in fault tolerant systems	0
+131	Implementing a verifier for real-time systems	0
+132	Dual-mode instruction prefetch scheme for improved worst case and average case program execution times	2
+133	Integrated management of priority inversion in Real-Time Mach	2
+134	Distributed execution of specifications	3
+135	Hartstone distributed benchmark: Requirements and definitions	0
+136	On the competitiveness of on-line real-time task scheduling	1
+137	A static scheduling algorithm for distributed hard real-time systems	0
+138	Language support for the maruti real-time system	1
+139	RTMMS-An OSI-based real-time messaging system	4
+140	Distributed fault tolerant architecture for nuclear reactor control and safety functions	3
+141	A tool for the computation of worst case task execution times	0
+142	Use of preemptive priority-based scheduling for space applications	0
+143	Scheduling and communication in MetaH	2
+144	A formalization of priority inversion	2
+145	Early experience with POSIX 1003.4 and POSIX 1003.4 A	0
+146	A graphical tool for specification of reactive systems	3
+147	SMART (strategic memory allocation for real-time) cache design using the MIPS R300	2
+148	Time capsules: An abstraction for access to continuous-media data	1
+149	Real-time system scenarios	1
+150	Preemptive scheduling with release times and deadlines	3
+151	Priority inversions in real-time communication	2
+152	Transformational method for verifying safety properties in real-time systems	2
+153	Analysis of a synchronization and scheduling discipline for real-time tasks with preemption constraints	0
+154	Formal analysis of real-time equational rule-based systems	1
+155	Really visual temporal reasoning	1
+156	Dual priority assignment: A practical method for increasing processor utilisation	0
+157	The Airplane Information Management System: An integrated real-time flight-deck control system	4
+158	An algorithm for real-time fault-tolerant scheduling in multiprocessor systems	0
+159	Scheduling real-time communication on dual-link networks	0
+160	Bounds on the performance of heuristic algorithms for multiprocessor scheduling of hard real-time tasks	3
+161	Preemptibility in real-time operating systems	2
+162	Correspondence: Criticality and utility in the next generation	2
+163	Efficient synchronization of clocks in a distributed system	3
+164	Towards an automatic synthesis system for real-time software	1
+165	A robust group membership algorithm for distributed real-time systems	0
+166	Applying compiler techniques to scheduling in real-time systems	1
+167	Priority inheritance and message passing communication: A formal treatment	2
+168	MRL: A real-time rule-based production system	1
+169	A robust group membership algorithm for distributed real-time systems	2
+170	Greed in resource scheduling	3
+171	Real-time medical image processing.	2
+172	Bandwidth allocation scheme for time constrained message transmission on a slotted ring LAN	3
+173	Acquisition and service of temporal data for real-time plant monitoring	0
+174	Performance evaluation of a bandwidth allocation scheme for guaranteeing synchronous messages with arbitrary deadlines in an FDDI network	3
+175	A comparison of four microcomputer operating systems	1
+176	Specification of embedded, real-time systems	2
+177	Load sharing with consideration of future task arrivals in heterogeneous distributed real-time systems	3
+178	A priority ceiling protocol for multiple-instance resources	3
+179	Clairvoyance, capricious timing faults, causality, and real-time specifications	0
+180	Guaranteed task deadlines for fault-tolerant workloads with conditional branches	0
+181	Global cyclic scheduling: A method to guarantee the timing behavior of distributed real-time systems	3
+182	Agreeing on a leader in real-time	1
+183	Resource reclaiming in real time	3
+184	Analysis of three contention protocols in distributed real-time systems	0
+185	Application of real-time monitoring to scheduling tasks with random execution times	0
+186	Verifying properties of systems with variable timing constraints	3
+187	Minimizing mean flow time with error constraint	0
+188	On-line scheduling for checkpointing imprecise computation	2
+189	Real-time system prototyping based on a heterogeneous multi-processor environment	4
+190	A Petri net based modelling and synthesis technique for real-time systems	4
+191	Real-time issues in computer music	0
+192	Let's PARTY: Process Algebra with Real-Rime from York	3
+193	Extracting lines, circular segments and clusters from radar pictures in real time for an autonomous mobile robot	1
+194	Optimization in real time	0
+195	Version selection schemes for hard real-time communications	0
+196	Dynamic planning based control of autonomous machine	0
+197	The diffusion model based task remapping for distributed real-time systems	3
+198	Language support for the Maruti real-time system	0
+199	Time capsules: An abstraction for access to continuous-media data	1
+200	Experiments with a program timing tool based on source-level timing schema	2
+201	Structuring large real-time systems with performance polymorphism	1
+202	From CHAOSbase to CHAOSarC: A family of real-time kernels	1
+203	MELODY: A completely decentralized adaptive file system for handling real-time tasks in unpredictable environments	0
+204	An application of structural modeling and automated reasoning to real-time systems design	2
+205	Programmable real-time scheduler using a neurocomputer	0
+206	Real-time temporal logic decision procedures	0
+207	Some properties of double-ring networks with real-time constraints	3
+208	Transient overloads in fault-tolerant real-time systems	4
+209	Analysis of real-time properties and rules for setting protocol parameters of MAP networks	3
+210	Toward the deterministic scheduling of Ada tasks	0
+211	SOME EXAMPLES OF MULTIPROCESSOR BUSES.	1
+212	DIGITAL IMAGE PROCESSOR FOR AUTOMATIC TARGET CUEING, NAVIGATION, AND CHANGE DETECTION.	2
+213	Dynamic replacement of software in hard real-time systems	1
+214	RTX-Parlog: Real-time extended Parlog	3
+215	Guest introduction: The IPTES project	0
+216	Timing analysis of MRL: A real-time rule-based system	0
+217	Modeling and evaluating the feasibility of timing constraints under different real-time scheduling algorithms	1
+218	Performance effects of information sharing in a distributed multiprocessor real-time scheduler	0
+219	Time interval semantics and implementation of a real-time programming language	0
+220	The programmer's view of MARS	1
+221	A priority forwarding scheme for real-time multistage interconnection networks	3
+222	Allocating SMART cache segments for schedulability	0
+223	Using objects and actions to provide fault tolerance in distributed, real-time applications	3
+224	A requirements specification method for adaptive real-time systems	0
+225	A partial evaluator for the Maruti hard real-time system	0
+226	MACS: A predictable architecture for real time systems	2
+227	Real-time system scenarios	0
+228	A study on the timeliness property in real-time systems	0
+229	New latency bounds for atomic broadcast	1
+230	Usability of the Ada tasking model	1
+231	Real-time communication in multiple token ring networks	3
+232	Dataflow computer extension towards real-time processing	3
+233	Fault-tolerant microcomputer for advanced control: Architecture and performability analysis	0
+234	Communicating shared resources: A model for distributed real-time systems	2
+235	The OR dataflow architecture for a machine embedded control system	0
+236	On the efficiency of cautious schedulers for database concurrency control-Why insist on two-phase locking?	1
+237	STATISTICAL TESTING OF REAL TIME SOFTWARE.	2
+238	SYSTEMATIC TESTING.	1
+239	Real-time disk scheduling based on urgent group and shortest seek time first	1
+240	Symbolic model checking for event-driven real-time systems	1
+241	A real-time kernel implemented in one chip	4
+242	Analytical study of quantitative timing properties of software	3
+243	MOCA: A multiprocessor on-line competitive algorithm for real-time system scheduling	1
+244	Specification and verification of a distributed real-time arbitration protocol	0
+245	Architectural considerations in the design of real-time kernels	3
+246	On the scheduling of hyperperiodic tasks	3
+247	An approach towards predictable real-time transaction processing	2
+248	ReaGOS - An application specific R/T-OS	1
+249	Effective implementation of ESTEREL programs	0
+250	Conceptual modeling of families of real-time systems	3
+251	Real time: Further misconceptions or half-truths	2
+252	Deadlock prevention in concurrent real-time systems	1
+253	Editorial: Real-time kernel interfaces	1
+254	Real-time process server for the micro-kernel based Alcatel Elin operating system testbed (AEOS)	3
+255	Deadline scheduling in fault tolerant real time systems	3
+256	A proof theory for asynchronously communicating real-time systems	0
+257	Bounds on the time to detect failures using bounded-capacity message links	0
+258	A new approach to real-time transaction	0
+259	A simple assertional proof system for real-time systems	0
+260	Modeling of distributed real-time systems in DisCo	3
+261	Predictable hard real-time scheduling	0
+262	An upper and a lower bound for tick synchronization	2
+263	Absolute and relative temporal constraints in hard real-time databases	2
+264	Adaptive threshold-based scheduling for real-time and non-real-time traffic	2
+265	A virtual memory system for real-time applications	3
+266	A small real-time kernel proven correct	0
+267	Real time software control system for the NERO wall climbing robot	0
+268	Synchronous programming of a real-time microcontroller	1
+269	The design of D.A.R.T.S.: A dynamic debugger for multiprocessor real-time applications	0
+270	Embedding time granularity in logical specifications of real-time systems	3
+271	Scheduling time constrained messages on miniMAP	0
+272	Survey of real-time and on-line diagnostic expert systems	0
+273	Time capsules: An abstraction for access to continuous-media data	2
+274	Specification and verification of real-time embedded systems using time-constrained reactive automata	3
+275	KOS™: A knowledge-based operating system for real-time onboard applications of artificial intelligence	1
+276	RTDB: A real-time database manager for time-critical applications	2
+277	Implementing a verifier for real-time systems	3
+278	Real-time communication in multiple token ring networks	2
+279	Strategies for predictability in real-time data-flow architectures	2
+280	Resource reclaiming in real time	1
+281	The ARTS real-time object model	3
+282	Real-time scheduling support in Futurebus	0
+283	From CHAOSbase to CHAOSarc: A family of real-time kernels	3
+284	Maintaining global time in futurebus+	3
+285	A proof system for communicating shared resources	1
+286	Strategies for predictability in real-time data-flow architectures	0
+287	Batch process control	4
+288	Fixing some time-related problems in Ada	0
+289	Minimizing the number of late tasks with error constraint	4
+290	Real-time Ada. Outstanding problem areas	3
+291	On-line routing of real-time messages	3
+292	Incremental garbage collection of concurrent objects for real-time applications	1
+293	Guest editor introduction	4
+294	Real-time control software for transaction processing based on colored safe Petri Net model	2
+295	Algorithm-based error detection for signal processing applications on a hypercube multiprocessor	0
+296	Distributed real-time language and its operational semantics	0
+297	Events: A structuring mechanism for a real-time runtime system	1
+298	Token-ring adapter-chipset architectural considerations for real-time systems	3
+299	MULTIPROCESSOR BENCHMARKS.	1
+300	MULTI-MICROPROCESSOR SYSTEMS FOR REAL-TIME APPLICATIONS.	1
+301	REAL TIME PROGRAMMING OF COMPUTER NUMERICAL CONTROL OF A MACHINE TOOL IN CAM.	0
+302	ELECTRONIC SOLID STATE WIDE ANGLE CAMERA SYSTEM - ESSWACS	1
+303	LOW-CONTRAST IMAGING.	2
+304	REAL-TIME MICROWAVE RADIOMETRIC IMAGER.	0
+305	NEAR REAL TIME IMAGE INTERPRETATION.	2
+306	REAL TIME RECONNAISSANCE PROBLEM.	3
+307	Real-time systems control based on object oriented concepts and Petri nets	3
+308	FASTCHART - Performance, benefits and disadvantages of the architecture	4
+309	Object-oriented knowledge representation and real-thne problem-solving	3
+310	Present and future challenges for scheduling in mission-critical systems	2
+311	A time-driven extension for a commercial multi-purpose operating system	0
+312	Lack of precision in standards-based real-time distributed systems	0
+313	Implementation of a synchronous execution machine on Chorus micro-kernel	1
+314	Control systems software	0
+315	A distributed computer testbed for real-time control of machinery	1
+316	Executable object-oriented graphical models of real-time software	4
+317	Pilot specific realtime world modeling for an autonomous mobile robot using heterogeneous sensor information	1
+318	Models for real-time supervision	0
+319	Meeting task deadlines in a community of cooperative intelligent systems	3
+320	An object-oriented representation of real-time application domains	4
+321	Highly integrated task and resource scheduling for mission-critical systems	0
+322	Highly multi-tasking real-time systems and their evaluation	3
+323	Customer oriented requirements analysis of real-time systems	2
+324	High level tools for the debugging of real-time multiprocessor systems	3
+325	New Petri net based formalism for specification, design and analysis of real-time systems	1
+326	Predictability and scalability of real-time scheduling	1
+327	A synchronous/asynchronous approach to robot programming	0
+328	Panel on real-time scheduling: Where are we now and where are we going?	4
+329	Synchronous/asynchronous approaches for intelligent real-time systems	0
+330	Concurrency control algorithm for real-time tasks with read/write operations	3
+331	Validation of design for space launch vehicles	2
+332	Reliability of event-triggered task activation for hard real-time systems	0
+333	An object-oriented framework for designing hard real-time systems	4
+334	Continuous real time models in practice	1
+335	Scheduling models for real-time systems	0
+336	Unity, as a tool for reactive systems specification and derivation	3
+337	Editorial: Resource allocation in Real-Time Systems	3
+338	Introduction	0
+339	RTC: Language support for real-time concurrency	0
+340	ALBATROSS - The communication scheme as a key to fulfil hard real-time constraints	2
+341	Design of a real-time computer system for relative position robot control	1
+342	NewThink - An Orwellian specification language for real-time safety critical systems	2
+343	On-line monitoring of real-time systems	3
+344	A processor for time-varying digital audio filters with special transition properties	2
+345	Software models for real-time systems	1
+346	Real-time monitoring and diagnosing of robotic assembly with self-organizing neural maps	0
+347	An overview of TCCS	1
+348	Erratum	3
+349	The refinement of real-time systems	2
+350	A programmable video coder based on transputers	1
+351	A compositional method for the top-down design of real-time systems	0
+352	When object-oriented operating system is time critical	2
+353	Ada gets groomed for the whole spectrum of real-time duties	0
+354	Pipelined embedding via dual-hypercubes for real time computing	3
+355	Provable transient recovery for frame-based, fault-tolerant computing systems	0
+356	A behavior analyzer for real-time and multiprocessor applications	0
+357	Color-based visualisation of hard real-time prototyping	2
+358	Real time object communication protocol for incremental and distributed prototyping	3
+359	Time and probabilities in specification and verification of real-time systems	0
+360	Scheduling critical and sensitiue tasks with remote requests in mission-critical systems	0
+361	Simulation and implementation of clock synchronisation in transputer networks	0
+362	An enhanced snoopy cache design for real-time multi-processing	2
+363	Editorial	1
+364	Handling Real-Time communication constraints in a mobile station used for the pan European digital mobile communication network	2
+365	An operating environment for control systems on transputer networks	0
+366	The space shuttle launch computer control system at NASA Kennedy Space Center	2
+367	Real-time system validation by model checking in TRIO	1
+368	A temporal logic-based model of event-driven nets	1
+369	Theta: An object-oriented operating system for intelligent process monitoring	1
+370	On board data fusion and decision system used for obstacle detection: A network and a real time approach	2
+371	Distributed time-management in transputer networks	1
+372	Remote procedure call protocols for real-time systems	0
+373	Real-time architecture for knowledge processing systems	1
+374	Real-time action	0
+375	Can the advantages of RISC be utilized in real time systems?	3
+376	A complexity control strategy for large system models	3
+377	KSE: A real-time expert system to diagnose nuclear power plant failures	4
+378	Hard real-time prototyping of SA/RT specifications	2
+379	A task scheduling scheme for real-time multi-robotics systems	1
+380	Reactions: An activation scheme specification language	3
+381	Static and dynamic scheduling of sporadic tasks for single-processor systems	0
+382	MRL: A real-time rule-based production system	0
+383	Incremental garbage collection of concurrent objects for real-time applications	0
+384	Specifying and verifying a real-time priority queue with modal algebra	2
+385	On-line routing of real-time messages	2
+386	A proof system for communicating shared resources	4
+387	Scalability of a distributed real-time resource counter	3
+388	Structuring large real-time systems with performance polymorphism	2
+389	Agreeing on a leader in real-time	2
+390	A tagged memory technique for recovery from transient errors in fault tolerant systems	1
+391	Minimizing the number of late tasks with error constraint	1
+392	New latency bounds for atomic broadcast	4
+393	Analysis of three contention protocols in distributed real-time systems	2
+394	A hierarchical approach to systems with heterogeneous real-time requirements	1
+395	Editorial	1
+396	Guest introduction: Some Italian research on real-time systems	1
+397	Scalability of a distributed real-time resource counter	2
+398	OOD methodology for shop floor control systems	0
+399	Ada support for real-time systems	4
+400	Real-time software using MASCOT	1
+401	Robot control	0
+402	DDC in the process industries	0
+403	Active control of a modern fighter aircraft	0
+404	Discrete controller design	0
+405	Asynchronous communication in Ada	3
+406	Specifying and verifying a real-time priority queue with modal algebra	0
+407	Ada requirements for small real-time systems	0
+408	Generating sequences for control	2
+409	Parallel processing for computer control	1
+410	Modelling, simulation and control of direct fired liquid gas vaporisers	0
+411	Practical aspects of implementing PID controllers	1
+412	Design of software for real-time system	3
+413	Multivariable control system design	3
+414	Virtual nodes and units of distribution for distributed Ada	2
+415	Computer control for patient care	0
+416	Automatic tuning of commercial PID controllers	1
+417	Real-time computer networking	1
+418	Software fault tolerance	2
+419	Ramifications of re-introducing asynchronous exceptions to the Ada language	2
+420	Computer Control of Real-Time Process	3
+421	Object oriented approach to virtual nodes. Are package types an answer?	4
+422	Erratum	1
+423	Editorial	2
+424	Guest editor's introduction	3
+425	Real-time file performance of a completely decentralized adaptive file system	3
+426	Decomposition approach to non-preemptive scheduling in hard real-time systems	1
+427	From synchronous intensional programming to efficient implementation	3
+428	Nearly Poisson transfer traffic in real-time networks	0
+429	Framework for specification and design of software for advanced sensor systems	0
+430	Fast sensor corrections of robot motion paths processed in real-time by control algorithms running in parallel	3
+431	Tasking model for reactive systems	3
+432	Signal processor architecture for high-performance real-time applications	2
+433	Editorial	3
+434	Editors	2
+435	PERFORMANCE ANALYSIS OF MULTIPROCESSOR SYSTEMS.	1
+436	DESIGN OF MULTIPROCESSOR BUSES.	1
+437	MULTIPROCESSOR SYSTEM ARCHITECTURE.	4
+438	STRUCTURAL ANALYSIS AND PROOF.	0
+439	SIMULATION AND SYSTEM VALIDATION.	4
+440	TOMP SOFTWARE.	3
+441	SOFTWARE RELIABILITY AND THE SOFTWARE LIFE-CYCLE.	0
+442	HARDWARE MODULES FOR MULTIPROCESSOR SYSTEMS.	1
+443	PROGRAM FALL-BACK METHOD IN REAL TIME SYSTEMS.	1
+444	MULTIPROCESSOR SYSTEM FOR POWER SYSTEM ANALYSIS.	2
+445	SPECIFICATION OF A SPECIFICATION LANGUAGE.	3
+446	EVALUATION OF PIPELINED COMMON PROCESSOR IN DISTRIBUTED PROCESSING SYSTEM.	0
+447	PROSUS: A SOFTWARE PACKAGE FOR INDUSTRIAL CONTROL.	0
+448	MULTI-PROCESSOR PROCESS COMPUTER SYSTEM EMPLOYING A DATA WAY USED AT THE YAWATA NO. 3 STEELMAKING PLANT.	2
+449	RECENT ADVANCES AND FUTURE TRENDS IN DISTRIBUTION CONTROL SYSTEMS.	1
+450	FILE DESIGN OF SMALL REAL-TIME COMPUTER SYSTEM.	2
+451	DEBUGGING TOOL FOR REAL TIME SOFTWARE: THE NON REPEATED RUNS APPROACH.	4
+452	MICROCOMPUTER BASED ON-BOARD REAL-TIME CONTROL SYSTEM FOR AUTOMATED GUIDEWAY RAPID TRANSIT SYSTEM.	0
+453	USE OF ADA FOR THE SPECIFICATION OF AUTOMATA IN CIVIL ENGINEERING.	4
+454	REAL TIME MULTI-MICROPROCESSOR SYSTEM INTRODUCED CONCEPT OF DATA-DRIVEN.	2
+455	ON THE DEVELOPMENT OF A DISTRIBUTED OPERATING SYSTEM KERNEL FOR REAL-TIME APPLICATIONS.	0
+456	ON-LINE SYSTEM CHANGEOVER USING A VIRTUAL MACHINE SYSTEM.	0
+457	FUNCTOR: A HIGHER-LEVEL CO-OPERATING PROGRAM MODEL.	4
+458	RECENT ADVANCES OF APPLICATION AND TECHNOLOGY OF INDUSTRIAL COMPUTERS IN JAPAN.	4
+459	CENTRALISED PROGRAMMING SYSTEM FOR PROCESS COMPUTER AT KIMITSU WORKS OF NIPPON STEEL CORPORATION.	4
+460	AN/AAD-5 INFRARED SENSOR.	4
+461	INTEGRATED RECONNAISSANCE AVIONICS.	0
+462	IMFRAD (INTEGRATED MULTIPLE FREQUENCY RADAR): A FOLIAGE PENETRATION AND CUEING RADAR.	1
+463	RECONNAISSANCE REPORTING FACILITY EXPLOITATION SHELTER.	0
+464	KA-98 REAL TIME RECONNAISSANCE SYSTEM.	2
+465	RF-15: RECONNAISSANCE DERIVATIVE OF THE F-15.	0
+466	VARIABLE ACUITY REMOTE VIEWING SYSTEM (VARVS).	4
+467	IMAGING SENSORS FOR RPVS.	0
+468	QRC 76-01 USAFE DEMONSTRATION.	0
+469	USAF QUICK STRIKE RECONNAISSANCE PROGRAM.	1
+470	TARGET SCREENER/FLIR SYSTEM.	2
+471	TACTICAL LASER BEAM RECORDER FOR NEAR REAL TIME HIGH RESOLUTION IMAGE GENERATION.	3
+472	An extendible approach for analyzing fixed priority hard real-time tasks	1
+473	Dynamic and aggressive scheduling techniques for power-aware real-time systems	1
+474	Scheduling aperiodic tasks in dynamic priority systems	3
+475	Fixed priority pre-emptive scheduling: An historical perspective	3
+476	Analysing real-time communications: Controller area network (CAN)	4
+477	Scheduling real-time applications in an open environment	2
+478	Integrating multimedia applications in hard real-time systems	3
+479	Fast and precise WCET prediction by separated cache and path analyses	2
+480	Computing Maximum Task Execution Times - A Graph-Based Approach	2
+481	On task schedulability in real-time control systems	3
+482	Schedulability analysis for tasks with static and dynamic offsets	1
+483	Resource allocation model for QoS management	2
+484	Generalized multiframe tasks	0
+485	Efficient and precise cache behavior prediction for real-time systems	0
+486	Static-priority scheduling on multiprocessors	0
+487	Early-release fair scheduling	3
+488	Timing analysis for instruction caches	0
+489	Analysis of hard real-time communications	3
+490	Worst case execution time analysis for a processor with branch prediction	4
+491	Timing anomalies in dynamically scheduled microprocessors	3
+492	Determining optimal processor speeds for periodic real-time tasks with different power characteristics	4
+493	Real-time vision-based system for textile fabric inspection	1
+494	Aperiodic servers in a deadline scheduling environment	3
+495	Proportional share resource allocation algorithm for real-time, time-shared systems	2
+496	Utilization Bounds for N-Processor Rate Monotone Scheduling with Static Processor Assignment	1
+497	MAST: Modeling and analysis suite for real time applications	2
+498	Improvement in feasibility testing for real-time tasks	0
+499	Real-time queueing theory	2

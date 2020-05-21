@@ -1,0 +1,19 @@
+	topic	best_doc	0	1	2	3	4	5	6	7	8	9
+0	0	['8940', '8803', '4028']	distributed	dynamic	adaptive	middleware	experimental	communication	network	distributed system	qos	load
+1	1	['2415', '204', '1259']	control system	real time system	concurrent	complexity	distributed	temperature	java	image processing	experimental	real time control
+2	2	['8608', '133', '799']	priority	multiprocessor	multiprocessor system	synchronization	scheduling	real time system	resource sharing	schedulability	priority inversion	lock
+3	3	['2611', '6568', '1166']	fault	safety	safety critical	criticality	fault tolerance	reliability	mixed criticality	fault tolerant	critical application	critical system
+4	4	['5194', '3170', '2801']	embedded	embedded system	real time embedded	operating system	case study	hardware	real time embedded system	component based	real time system	embedded real time system
+5	5	['6162', '1380', '8836']	constraint	formal	timing constraint	automaton	real time system	real time constraint	model checking	model based	correctness	timed automaton
+6	6	['979', '888', '1404']	fixed	end end	scheduling	response time	constraint	priority	deadline	delay	bound	schedulability
+7	7	['8728', '7140', '4526']	gpu	data flow	processing unit	frame rate	speedup	optimization	state machine	multicast	co design	genetic algorithm
+8	8	['7495', '8344', '6665']	hardware	core	fpga	multi core	throughput	daq	data acquisition system	embedded	experimental	complexity
+9	9	['5859', '8990', '6471']	wireless	network	sensor network	wireless sensor	wireless sensor network	communication	routing	virtual machine	energy	wireless network
+10	10	['551', '2005', '1134']	network	communication	bandwidth	transmission	delay	packet	distributed	multimedia	clock	server
+11	11	['5852', '3608', '7470']	energy	energy consumption	dynamic	battery	optimal	constraint	simulation result	voltage scaling	static	power management
+12	12	['2706', '560', '2444']	execution time	worst case execution	worst case execution time	wcet	cache	real time system	bound	static	timing analysis	wcet analysis
+13	13	['7372', '5568', '6943']	multiprocessor	partitioned	scheduling	sporadic	sporadic task	multiprocessor platform	deadline	migration	multicore	bound
+14	14	['6334', '2510', '602']	online	polynomial	offline	approximation	optimal	polynomial time	complexity	linear programming	pseudo polynomial	integer linear programming
+15	15	['7648', '613', '7665']	scheduling	schedulability	deadline	priority	periodic	fixed	preemptive	fixed priority	edf	schedulability analysis
+16	16	['4192', '953', '710']	scheduling	soft	scheduling algorithm	soft real time	deadline	schedule	real time scheduling	real time system	hard real time	real time application
+17	17	['1398', '3149', '8875']	database	transaction	real time database	deadline	concurrency	workload	concurrency control	deadline miss	real time database system	deadline miss ratio
